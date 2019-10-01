@@ -1,3 +1,3 @@
-# python-pi-example
+#!/usr/bin/python3
 
-This is an example project to demonstrate the use of git on ubuntu.
+print("Hello world")
